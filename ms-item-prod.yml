@@ -2,7 +2,4 @@ server:
   port: 8005
     
 configuration:
-    texto: Configurando entorno Desarrollo ...
-    autor:
-        nombre: Jose Perez
-        email: joseperez@email.com
+    texto: Configurando entorno Produccion ...

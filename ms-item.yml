@@ -1,5 +1,5 @@
 server:
   port: 8005
-spring:
-  application:
-    name: ms-item
+
+configuration:
+    texto: Configurando entorno por Defecto ...
